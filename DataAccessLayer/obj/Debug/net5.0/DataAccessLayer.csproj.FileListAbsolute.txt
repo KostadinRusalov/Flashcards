@@ -1,0 +1,54 @@
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.csprojAssemblyReference.cache
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.AssemblyInfoInputs.cache
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.AssemblyInfo.cs
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.deps.json
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.runtimeconfig.json
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.runtimeconfig.dev.json
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.dll
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/bin/Debug/net5.0/ref/DataAccessLayer.dll
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.pdb
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/bin/Debug/net5.0/BusinessLayer.dll
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/bin/Debug/net5.0/BusinessLayer.pdb
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.csproj.CopyComplete
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.dll
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/ref/DataAccessLayer.dll
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.pdb
+/Users/kostadin/Desktop/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.genruntimeconfig.cache
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.deps.json
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.runtimeconfig.json
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.runtimeconfig.dev.json
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.dll
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/bin/Debug/net5.0/ref/DataAccessLayer.dll
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.pdb
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/bin/Debug/net5.0/BusinessLayer.dll
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/bin/Debug/net5.0/BusinessLayer.pdb
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.csprojAssemblyReference.cache
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.AssemblyInfoInputs.cache
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.AssemblyInfo.cs
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.csproj.CopyComplete
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.dll
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/ref/DataAccessLayer.dll
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.pdb
+/Users/kostadin/Desktop/Flashcards 19-30-34-591/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.genruntimeconfig.cache
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.deps.json
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.runtimeconfig.json
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.runtimeconfig.dev.json
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.dll
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/bin/Debug/net5.0/ref/DataAccessLayer.dll
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/bin/Debug/net5.0/DataAccessLayer.pdb
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/bin/Debug/net5.0/BusinessLayer.dll
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/bin/Debug/net5.0/BusinessLayer.pdb
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.AssemblyInfoInputs.cache
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.AssemblyInfo.cs
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.csproj.CopyComplete
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.dll
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/ref/DataAccessLayer.dll
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.pdb
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.genruntimeconfig.cache
+/Users/kostadin/Documents/School/12.2021-2022/Iliev/Flashcards/DataAccessLayer/obj/Debug/net5.0/DataAccessLayer.csproj.AssemblyReference.cache
